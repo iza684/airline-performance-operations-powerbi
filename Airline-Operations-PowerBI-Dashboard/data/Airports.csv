@@ -1,0 +1,11 @@
+AirportID,AirportCode,City,Country,Region
+1,JFK,New York,USA,North America
+2,LHR,London,UK,Europe
+3,DXB,Dubai,UAE,Middle East
+4,DOH,Doha,Qatar,Middle East
+5,IST,Istanbul,Turkey,Europe
+6,SIN,Singapore,Singapore,Asia
+7,KUL,Kuala Lumpur,Malaysia,Asia
+8,CDG,Paris,France,Europe
+9,YYZ,Toronto,Canada,North America
+10,SYD,Sydney,Australia,Oceania

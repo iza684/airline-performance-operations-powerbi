@@ -1,0 +1,6 @@
+AircraftID,AircraftModel,AircraftType,RangeCategory
+1,Airbus A320,Narrow-body,Short/Medium
+2,Boeing 737-800,Narrow-body,Short/Medium
+3,Airbus A350,Wide-body,Long-haul
+4,Boeing 787,Wide-body,Long-haul
+5,Airbus A330,Wide-body,Long-haul

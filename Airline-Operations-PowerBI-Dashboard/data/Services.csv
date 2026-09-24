@@ -1,0 +1,7 @@
+ServiceID,CabinClass,FareType
+1,Economy,Standard
+2,Economy,Flex
+3,Premium Economy,Flex
+4,Business,Standard
+5,Business,Flex
+6,First,Premium
